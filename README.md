@@ -1,10 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-#
+# 使用說明
 1. 有裝新的套件所以需要yarn install
 2. 啟動 yarn start
 3. 點擊或拖拉上傳圖片
 4. 點擊圖片產生拖拉方塊
 5. 拖拉方塊右邊的Ｘ為刪除按鈕
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## project 說明
 
